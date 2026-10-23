@@ -23,10 +23,11 @@
 |---|---|---|
 | [🛡️ SentinelAI — Autonomous AI SOC](https://github.com/Master-creox/sentinel-ai-soc) | **Flagship:** a self-driving Security Operations Center — live traffic simulation, explainable AI detection (brute force, port scan, DDoS, credential stuffing, beaconing), autonomous IP blocking with reasons, futuristic HUD dashboard. Benchmark: 100% recall, 0 false positives | Python, ML |
 | [🛡️ ScamShield Global](https://github.com/Master-creox/scamshield-global) | Multi-layer scam protection in **4 languages** — C++ URL risk engine (typosquat detection), Java message analyzer (OTP/KYC/digital-arrest scams), JavaScript web shield + browser extension. 100% on bundled test sets, 0 false positives | C++, Java, JavaScript, HTML |
+| [🧩 CicadaLab 3301](https://github.com/Master-creox/cicada-3301-lab) | Cicada 3301-inspired cryptography & steganography lab — Caesar/Vigenère ciphers, authentic Gematria Primus runes, prime math, LSB steganography, and a playable 4-stage puzzle hunt. Zero dependencies, 19 tests | Python, Cryptography |
 | [Advanced Network Sniffer](https://github.com/Master-creox/advanced-network-sniffer) | Python packet sniffer with real-time analysis, DNS inspection, automated protocol detection & full test coverage | Python |
 | [CodeMentor AI](https://github.com/Master-creox/CodeMentor-AI) | AI-powered coding mentor that explains programming errors in simple Hindi/English — built for AI for Bharat Hackathon | TypeScript, AI |
-| [Basic of Network Sniffer](https://github.com/Master-creox/Basic-of-network-sniffer) | Foundations of packet sniffing and network traffic analysis | Python |
-| [CodeAlpha Tasks](https://github.com/Master-creox/codealpha_tasks) | AI internship projects — language translator & FAQ chatbot | Python, AI |
+| [Basic of Network Sniffer](https://github.com/Master-creox/Basic-of-network-sniffer) | Working packet sniffer — full decode (IP/TCP/UDP/ICMP/DNS), filter engine, PCAP save/load, logging, 12 tests | Python |
+| [CodeAlpha Tasks](https://github.com/Master-creox/codealpha_tasks) | AI internship projects, upgraded — multi-language translator CLI & a 20-topic cybersecurity FAQ chatbot | Python, AI |
 
 ---
 
@@ -69,3 +70,4 @@
 </p>
 
 <p align="center"><i>"Building smart systems | Learning every day 🚀"</i></p>
+
