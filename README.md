@@ -1,19 +1,31 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">Cybersecurity & AI Developer | BCA Cybersecurity Student</h3>
+<h3 align="center">Defensive Security | Threat Detection & Response</h3>
+<h4 align="center">BCA Cybersecurity Student — building tools that detect, explain, and block attacks</h4>
 
 <p align="center">
-  <i>Building AI-powered defensive security tools that solve real-world problems.</i>
+  <i>I build systems that detect, explain, and block attacks — not just demos, but working defensive security tools.</i>
 </p>
 
 ---
 
 ## 🛡️ About Me
 
-- 🎓 **BCA Cybersecurity student** passionate about AI, cybersecurity & real-world problem solving
-- 🔐 Currently building **AI Cyber Account Lab** — an AI + cybersecurity lab that detects suspicious logins, weak passwords, and phishing risks (Python, scikit-learn, Isolation Forest)
-- 🌐 Experienced with **network analysis** — built an advanced packet sniffer with real-time analysis, DNS inspection & protocol detection
+- 🎓 **BCA Cybersecurity student** focused on defensive security — detection, analysis, and response
+- 🔍 **Threat detection & response:** built SentinelAI, an autonomous SOC that detects attacks and blocks malicious IPs with reasons
+- 🔐 **Secure platforms:** built Master CreoX API, a live self-reliant gateway with its own API keys, JWT auth, and rate limiting
+- 🌐 **Network security:** built an advanced packet sniffer with real-time analysis, DNS inspection & protocol detection
+- 🔐 Also building **AI Cyber Account Lab** — an AI + cybersecurity lab that detects suspicious logins, weak passwords, and phishing risks (Python, scikit-learn, Isolation Forest)
 - 🤖 Also exploring **AI for education** — built CodeMentor AI, an AI coding mentor for students
 - 🌱 Learning every day: machine learning for security, secure system design & open source
+
+---
+
+## 🎯 Security Focus
+
+- 🔍 **Threat Detection & Response** — SentinelAI: explainable detection (brute force, port scan, DDoS, credential stuffing) + autonomous IP blocking
+- 🌐 **Network Security & Analysis** — Advanced Network Sniffer v2: PCAP analysis, flow tracking, protocol dissectors, threat detectors
+- 🔐 **Secure API Platforms** — Master CreoX API (live): own API-key system, JWT auth, rate limiting, usage tracking, built-in cybersecurity engine
+- 🛡️ **Scam Prevention** — ScamShield Global: multi-language protection against phishing, OTP/KYC fraud, and typosquat domains
 
 ---
 
@@ -51,7 +63,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-**Focus areas:** Cybersecurity · Network Security · Machine Learning · Android Development
+**Focus areas:** Defensive Security · Threat Detection & Response · Network Security · Secure API Design
 
 ---
 
@@ -66,8 +78,9 @@
 
 ## 🎯 Current Focus
 
-> **AI Cyber Account Lab** — combining cybersecurity + artificial intelligence to secure accounts:
-> anomaly-detection models for suspicious logins, privacy-preserving password checks, phishing detection, and an explainable security dashboard.
+> **Master CreoX API — live:** a self-reliant FastAPI platform powering defensive security tools — own API keys, JWT auth, rate limiting, and a built-in cybersecurity engine. Live at master-creox-api.onrender.com.
+>
+> **SentinelAI — autonomous SOC:** live traffic simulation, explainable attack detection, and autonomous IP blocking.
 
 ---
 
@@ -75,6 +88,7 @@
 
 <p>
   <a href="https://github.com/Master-creox"><img src="https://img.shields.io/badge/GitHub-Master--creox-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/akaash-kumar"><img src="https://img.shields.io/badge/LinkedIn-akaash--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center"><i>"Building smart systems | Learning every day 🚀"</i></p>
