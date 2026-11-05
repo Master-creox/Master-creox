@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/profile/hero.svg" alt="Akash Kumar — Master Creox" width="100%"/>
+
+<br/><br/>
+
 # Hi, I'm Akash Kumar — Master Creox
 
 ### Defensive Security · Threat Detection & Response · AI
@@ -46,7 +50,13 @@
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
+<img src="./assets/profile/id-dashboard.svg" alt="System profile" width="100%"/>
+
 ---
+
+<img src="./assets/profile/about-life.svg" alt="Learn, Build, Defend" width="100%"/>
+
+<br/>
 
 ## `02` ── ABOUT ME
 
@@ -82,6 +92,8 @@ Benchmark (simulated, seed 42): **12/12 attackers detected, 100% recall, 0 false
 
 ---
 
+<img src="./assets/profile/projects.svg" alt="Selected projects" width="100%"/>
+
 ## 🚀 SELECTED PROJECTS
 
 | Project | What it does | Tech |
@@ -94,6 +106,8 @@ Benchmark (simulated, seed 42): **12/12 attackers detected, 100% recall, 0 false
 | [🔐 Ethical Hacking Practice Lab](https://github.com/Master-creox/ethical-hacking-practice-lab) | 20 tools to learn safely — own devices / own lab VMs / vulnerable lab apps only. Never a real target | HTML, JavaScript |
 
 ---
+
+<img src="./assets/profile/stack.svg" alt="Tech stack" width="100%"/>
 
 ## 🛠️ TECH STACK
 
