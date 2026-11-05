@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED HERO — Akash Kumar OS edition, with portrait -->
+<!-- ANIMATED HERO — Akash Kumar OS edition, MC shield + terminal -->
 <img src="./assets/profile/hero.svg" alt="Akash Kumar — Master Creox, defensive security, AI and scam prevention" width="100%"/>
 
 <br/><br/>
