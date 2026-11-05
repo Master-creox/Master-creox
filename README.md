@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED HERO — Akash Kumar OS edition, no portrait -->
+<!-- ANIMATED HERO — Akash Kumar OS edition, with portrait -->
 <img src="./assets/profile/hero.svg" alt="Akash Kumar — Master Creox, defensive security, AI and scam prevention" width="100%"/>
 
 <br/><br/>
